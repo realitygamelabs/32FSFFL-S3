@@ -1,0 +1,518 @@
+[
+  {
+    "id": "preseason",
+    "number": 0,
+    "kicker": "THE DRAFT",
+    "title": "The game begins at the draft",
+    "short": "THE DRAFT",
+    "start": "2025-08-30",
+    "end": "2025-09-08",
+    "tribalDate": null,
+    "inferred": false,
+    "dateLabel": "AUG 30–SEP 8",
+    "description": "Twenty-plus players enter with very different levels of fantasy-football experience, a fresh set of NFL rosters, and three tribes that must learn to balance teamwork with self-preservation.",
+    "outcome": null,
+    "story": [
+      {
+        "heading": "Three tribes, competing priorities",
+        "body": "Red, Blue, and Yellow approach the draft with different roster strategies and different social starting points. Quarterback scarcity, lineup balance, and the possibility of trading players become early discussion points. At the same time, the Survivor game is underway: players are building relationships before they know which tribe will be in danger first."
+      },
+      {
+        "heading": "More than one early alliance",
+        "body": "The confessional notes capture several overlapping efforts to establish trust. Harry, Justin, Mark, and Aly feature in one set of early conversations; Cody and Nick develop a connection, while Navi and Julia work to find their footing. On Red, smaller groups form around Joel, Allix, Katie, Steve, and others. None of these early arrangements guarantees control once NFL games begin."
+      },
+      {
+        "heading": "Advantages change the equation",
+        "body": "Players also have to learn a separate economy of game currency and advantages. Information can move between tribes through special opportunities, even while ordinary cross-tribe communication is restricted. The opening weeks are as much about understanding the rules and other players as they are about scoring fantasy points."
+      }
+    ]
+  },
+  {
+    "id": "week-1",
+    "number": 1,
+    "kicker": "WEEK 01 · FIRST BLOOD",
+    "title": "Will is the first to go",
+    "short": "WEEK 01",
+    "start": "2025-09-09",
+    "end": "2025-09-15",
+    "tribalDate": "2025-09-09",
+    "inferred": true,
+    "dateLabel": "SEP 9–15",
+    "description": "The first NFL results send Red to Tribal, where Will becomes the first player voted out. Elsewhere, the opening scores and new social connections begin to reshape expectations.",
+    "outcome": "Will",
+    "story": [
+      {
+        "heading": "The first football test",
+        "body": "The season moves from draft projections to actual NFL production. Some teams have assembled reliable starters; others are dependent on riskier combinations or advantages. Results determine who must face a vote, but they do not tell that tribe whom to eliminate."
+      },
+      {
+        "heading": "A first Tribal",
+        "body": "Red votes out Will at the opening Tribal Council. It is the first demonstration that fantasy performance and social protection are different kinds of safety. Players on every tribe can now see that an early misread of relationships may matter just as much as a disappointing Sunday lineup."
+      },
+      {
+        "heading": "The Edge remains",
+        "body": "An elimination does not necessarily mean the last appearance of a player. Edge of Extinction makes the early vote consequential without making it fully final, and surviving players have to consider whom they might face again."
+      }
+    ]
+  },
+  {
+    "id": "week-2",
+    "number": 2,
+    "kicker": "WEEK 02 · TWO TRIBES",
+    "title": "Julia and Jason fall",
+    "short": "WEEK 02",
+    "start": "2025-09-16",
+    "end": "2025-09-22",
+    "tribalDate": "2025-09-16",
+    "inferred": true,
+    "dateLabel": "SEP 16–22",
+    "description": "Two tribes visit Tribal and Julia and Jason are eliminated. Their exits come amid competing alliances, football roster decisions, and changing ideas about who is actually vulnerable.",
+    "outcome": "Julia · Jason",
+    "story": [
+      {
+        "heading": "Pressure across the beaches",
+        "body": "The second week sends two of the three tribes to Tribal. Immunity outcomes and special advantages affect the available choices, while some players consider whether improving a teammate’s roster might make the whole tribe safer."
+      },
+      {
+        "heading": "Conflicting social maps",
+        "body": "Early confessionals show several factions testing trust rather than following a single agreed plan. Justin and Harry weigh their connections with Mark and Aly; Cody, Nick, Navi, John, Braga, and Brian are also sorting out whom to rely on. Suspicion around possible targets does not always match the votes that ultimately land."
+      },
+      {
+        "heading": "Two departures, many consequences",
+        "body": "Julia and Jason leave this round. Their eliminations affect separate networks of relationships and leave the remaining players reassessing both their alliances and which advantages are still in circulation."
+      }
+    ]
+  },
+  {
+    "id": "week-3",
+    "number": 3,
+    "kicker": "WEEK 03 · A HARD EXIT",
+    "title": "Cody out, Ross departs",
+    "short": "WEEK 03",
+    "start": "2025-09-23",
+    "end": "2025-09-29",
+    "tribalDate": "2025-09-23",
+    "inferred": true,
+    "dateLabel": "SEP 23–29",
+    "description": "Cody is voted out, while Ross leaves the game for personal reasons. The changes reach beyond their immediate tribes as the cast looks ahead to a reshuffle.",
+    "outcome": "Cody · Ross (withdrawal)",
+    "story": [
+      {
+        "heading": "An exit at Tribal and a departure away from it",
+        "body": "Cody is eliminated through the vote. Ross leaves for personal reasons, creating a second change to the cast that cannot be explained by Tribal strategy or fantasy points. Each loss affects the people who had been working with them."
+      },
+      {
+        "heading": "Old plans become less reliable",
+        "body": "Across the original tribes, players have been negotiating alliances, comparing advantages, and trying to control weekly lineups. The departures disrupt those assumptions at the same time that a swap looms, making permanent tribal majorities increasingly difficult to count on."
+      },
+      {
+        "heading": "An unfinished Edge story",
+        "body": "Eliminated players remain relevant through Edge of Extinction. For those still in the game, the possibility of returnees complicates any decision based on supposedly settled numbers."
+      }
+    ]
+  },
+  {
+    "id": "week-4",
+    "number": 4,
+    "kicker": "WEEK 04 · DOUBLE TROUBLE",
+    "title": "Brian and Laura are voted out",
+    "short": "WEEK 04",
+    "start": "2025-09-30",
+    "end": "2025-10-06",
+    "tribalDate": "2025-09-30",
+    "inferred": true,
+    "dateLabel": "SEP 30–OCT 6",
+    "description": "A September 30 tribe swap mixes former allies and rivals into new groups. Brian and Laura are voted out as everyone adapts to unfamiliar teammates and new scoring pressures.",
+    "outcome": "Brian · Laura",
+    "story": [
+      {
+        "heading": "The tribe swap redraws the map",
+        "body": "Old color lines no longer guarantee protection. The new groups contain people with separate social histories, competing priorities, and different roster strengths. Some former allies reunite, while others need to establish trust with players they barely know."
+      },
+      {
+        "heading": "Everyone has a new calculation",
+        "body": "The swap introduces immediate questions: who can cooperate on fantasy matchups, whose roster can absorb a trade, and whether a previously close relationship is now a threat to a new majority. One new Reba group is selected by Steve, but the reshuffle changes the game for every tribe, not just that one."
+      },
+      {
+        "heading": "Two players leave",
+        "body": "Brian and Laura are voted out in the first swapped-tribe round. Their exits show how little security a player can assume after reassignment, especially when social bonds and football scoring are pulling in different directions."
+      }
+    ]
+  },
+  {
+    "id": "week-5",
+    "number": 5,
+    "kicker": "WEEK 05 · SECOND CHANCES",
+    "title": "The Edge changes the board",
+    "short": "WEEK 05",
+    "start": "2025-10-07",
+    "end": "2025-10-13",
+    "tribalDate": "2025-10-07",
+    "inferred": true,
+    "dateLabel": "OCT 7–13",
+    "description": "Nick is voted out, but Edge of Extinction returns Cody and Brian to active play. The reshuffled tribes have to absorb two players whose stories were supposed to be over.",
+    "outcome": "Nick · Cody and Brian return",
+    "story": [
+      {
+        "heading": "The Edge opens again",
+        "body": "Cody and Brian return from Edge of Extinction. The comeback gives them another opportunity to compete and creates uncertainty for players who had been treating earlier departures as settled."
+      },
+      {
+        "heading": "Relationships do not reset",
+        "body": "Returnees bring information, old allegiances, and possible grievances into tribes already negotiating their own arrangements. Meanwhile, the original groups have been fragmented by the swap. Long-standing trust may help a player reconnect, but it does not make a new majority automatic."
+      },
+      {
+        "heading": "Nick leaves",
+        "body": "Nick is voted out during the same week. His departure and the two returns mean the cast changes in several directions at once, reinforcing how quickly the social and football sides of the game can diverge."
+      }
+    ]
+  },
+  {
+    "id": "week-6",
+    "number": 6,
+    "kicker": "WEEK 06 · TWO FIRES",
+    "title": "Yellow and Blue face Tribal",
+    "short": "WEEK 06",
+    "start": "2025-10-14",
+    "end": "2025-10-20",
+    "tribalDate": "2025-10-14",
+    "inferred": true,
+    "dateLabel": "OCT 14–20",
+    "description": "Both Yellow and Blue face Tribal, with Joseph and Mardie eliminated. Their separate paths underline how differently the surviving tribes have evolved.",
+    "outcome": "Joseph · Mardie",
+    "story": [
+      {
+        "heading": "Two Tribals, two sets of relationships",
+        "body": "Yellow and Blue each have to make a decision. By this point, their players have navigated shifting alliances, public advantages, and the ongoing pressure to field a competitive fantasy lineup. What looks like a safe plan from one conversation may not look the same to another group."
+      },
+      {
+        "heading": "Longer-term loyalties meet a short-term vote",
+        "body": "The remaining players are also looking toward a merge, when previously separated groups will finally be able to compare their accounts. That prospect increases the value of relationships and information even for players who are not at this week’s Tribal."
+      },
+      {
+        "heading": "The field narrows",
+        "body": "Joseph and Mardie are eliminated. Their exits close two individual pre-merge stories while leaving open how the surviving former tribal relationships will carry into the next stage."
+      }
+    ]
+  },
+  {
+    "id": "week-7",
+    "number": 7,
+    "kicker": "WEEK 07 · THE MERGE",
+    "title": "The tribes converge",
+    "short": "WEEK 07",
+    "start": "2025-10-21",
+    "end": "2025-10-27",
+    "tribalDate": "2025-10-21",
+    "inferred": true,
+    "dateLabel": "OCT 21–27",
+    "description": "Brian and Braga leave shortly before the merge. As the remaining players come together, the game changes from protecting a tribe to surviving one shared vote.",
+    "outcome": "Brian · Braga",
+    "story": [
+      {
+        "heading": "The last separate votes",
+        "body": "The pre-merge game ends with Brian and Braga leaving at their respective Tribals. Each tribe has arrived here through a different mix of challenge results, strategic relationships, and roster management."
+      },
+      {
+        "heading": "New conversations, old histories",
+        "body": "The merge opens communication across the full remaining field. Players begin checking what they had been told about the other tribes, identifying new partners, and discovering that different people experienced the same events very differently."
+      },
+      {
+        "heading": "A new kind of vulnerability",
+        "body": "There is now a single voting pool. A strong fantasy team still matters, but no player can rely solely on the connections that protected them on an individual beach. The merger creates opportunities for new coalitions as well as new targets."
+      }
+    ]
+  },
+  {
+    "id": "week-8",
+    "number": 8,
+    "kicker": "WEEK 08 · THE FIRST MERGE VOTE",
+    "title": "Mark becomes the first merge casualty",
+    "short": "WEEK 08",
+    "start": "2025-10-28",
+    "end": "2025-11-03",
+    "tribalDate": "2025-10-28",
+    "inferred": true,
+    "dateLabel": "OCT 28–NOV 3",
+    "description": "Mark becomes the first merged Tribal elimination. As the cast adjusts to one voting group, new agreements emerge across the former tribal lines, including a four-player alliance later called JANS.",
+    "outcome": "Mark",
+    "story": [
+      {
+        "heading": "The first full-cast vote",
+        "body": "Mark is eliminated in the opening merged Tribal. The vote tests whether players can turn pre-merge relationships into support in a much larger group, and it gives everyone new information about where trust and influence may lie."
+      },
+      {
+        "heading": "Several routes through the merge",
+        "body": "The post-merge cast is not divided cleanly into two sides. Friendships from Blue, Yellow, and Red overlap with fresh conversations, and players must decide whether to hold to old allies or make new commitments. Public events and reward outcomes provide fresh reasons for people to cooperate."
+      },
+      {
+        "heading": "One alliance among several",
+        "body": "On November 1, Joel, Aly, Navi, and Steve formalize an agreement known as JANS. The group aims to work toward the final four, but its existence is not the whole merge: Harry, Justin, John, Cody, Allix, Katie, and others are still making decisions with their own relationships and goals."
+      }
+    ]
+  },
+  {
+    "id": "week-9",
+    "number": 9,
+    "kicker": "WEEK 09 · SPLIT VOTES",
+    "title": "John and Cody leave the game",
+    "short": "WEEK 09",
+    "start": "2025-11-04",
+    "end": "2025-11-10",
+    "tribalDate": "2025-11-04",
+    "inferred": true,
+    "dateLabel": "NOV 4–10",
+    "description": "Split Tribals eliminate John and Cody at the final ten. A smaller voting pool and the Touchy Subjects challenge sharpen the risks around alliances and individual reputation.",
+    "outcome": "John · Cody",
+    "story": [
+      {
+        "heading": "One game, two councils",
+        "body": "The merged group is split for separate votes, changing who can actually help whom. John and Cody are eliminated. The outcome depends on the people in each voting group rather than one season-wide majority."
+      },
+      {
+        "heading": "The social picture becomes more visible",
+        "body": "The Touchy Subjects challenge offers a different kind of information: how players are perceived by their peers. As the field gets smaller, public impressions can affect whether someone is seen as a valuable ally, a possible finalist, or a target."
+      },
+      {
+        "heading": "Ponderosa begins",
+        "body": "The first Ponderosa recording follows these eliminations. From here onward, each exit shapes a jury whose judgment will eventually have direct consequences for the finalists’ football rosters."
+      }
+    ]
+  },
+  {
+    "id": "week-10",
+    "number": 10,
+    "kicker": "WEEK 10 · FINAL EIGHT",
+    "title": "Justin is eliminated",
+    "short": "WEEK 10",
+    "start": "2025-11-11",
+    "end": "2025-11-17",
+    "tribalDate": "2025-11-11",
+    "inferred": true,
+    "dateLabel": "NOV 11–17",
+    "description": "Justin is voted out at final eight. With idols, advantages, and potential splits in play, players have to account for both the votes they can see and the protections they cannot.",
+    "outcome": "Justin",
+    "story": [
+      {
+        "heading": "Eight players, limited room for error",
+        "body": "By final eight, the field contains people with competing past loyalties and a growing number of reasons to guard information. Prospective targets cannot assume that everyone publicly agreeing on a plan will vote the same way."
+      },
+      {
+        "heading": "Advantages keep the vote unsettled",
+        "body": "Idols, possible extra votes, and the need to anticipate protection make straightforward numbers less reliable. Justin becomes the person eliminated, but the week’s strategic tension extends to other players who are trying to hold relationships together or find a safer route forward."
+      },
+      {
+        "heading": "Every exit adds another perspective",
+        "body": "Justin joins Ponderosa. The jury will not simply evaluate who survived each Tribal; its members will bring their own experiences of the game into the final vote."
+      }
+    ]
+  },
+  {
+    "id": "week-11",
+    "number": 11,
+    "kicker": "WEEK 11 · THE FINAL SEVEN",
+    "title": "Harry’s torch goes out",
+    "short": "WEEK 11",
+    "start": "2025-11-18",
+    "end": "2025-11-24",
+    "tribalDate": "2025-11-18",
+    "inferred": true,
+    "dateLabel": "NOV 18–24",
+    "description": "Harry goes home at final seven, ending the story currently covered by the produced episodes. The vote turns on perceived threats, football strength, and competing visions of the late-game field.",
+    "outcome": "Harry",
+    "story": [
+      {
+        "heading": "A dangerous point in the game",
+        "body": "Harry has built relationships and fields a roster viewed as capable of winning key football contests. That makes him a serious consideration as the field narrows, particularly when a single immunity result can deny other players a choice."
+      },
+      {
+        "heading": "Different targets, different incentives",
+        "body": "Harry, Allix, and Katie become part of the wider conversation about who should remain for the final six and five. Players weigh immunity potential, relationships, jury prospects, and the possibility that an advantage changes the vote. JANS members have their own disagreements about the preferred route, while people outside that group continue protecting their interests."
+      },
+      {
+        "heading": "The edited episodes end here",
+        "body": "Harry is voted out. The auction also belongs to this phase, and Produced Episode 11 covers this elimination. The rest of the season is documented through individual Tribal recordings, Ponderosa, and player confessionals, with no unreleased episodes presented as finished content."
+      }
+    ]
+  },
+  {
+    "id": "week-12",
+    "number": 12,
+    "kicker": "WEEK 12 · THE FINAL SIX",
+    "title": "Allix is voted out",
+    "short": "WEEK 12",
+    "start": "2025-11-25",
+    "end": "2025-11-28",
+    "tribalDate": "2025-11-25",
+    "inferred": true,
+    "dateLabel": "NOV 25–28",
+    "description": "Allix is eliminated at final six. Older relationships, hidden commitments, and advantage uncertainty make the late-game vote difficult to read from the outside.",
+    "outcome": "Allix",
+    "story": [
+      {
+        "heading": "The remaining relationships overlap",
+        "body": "Allix has longstanding connections dating to the earliest tribes and remains an active part of the endgame conversations. Katie is also looking for a viable path, while Aly, Navi, Joel, and Steve are each balancing relationships and commitments that do not all point in the same direction."
+      },
+      {
+        "heading": "A vote with consequences beyond this week",
+        "body": "Advantage questions and potential vote splits matter at final six. Players weigh not only who can survive the next Tribal but also which remaining competitors would be difficult to face in jury deliberations or fantasy scoring. Allix is ultimately eliminated."
+      },
+      {
+        "heading": "The calendar accelerates",
+        "body": "The next stage compresses the usual fantasy and Tribal rhythm around Thanksgiving. Everyone left has less time to adjust lineups, gather information, and decide whom they want beside them at the end."
+      }
+    ]
+  },
+  {
+    "id": "week-13a",
+    "number": 13,
+    "kicker": "WEEK 13A · THE FINAL FIVE",
+    "title": "A special weekend Tribal",
+    "short": "WEEK 13A",
+    "start": "2025-11-29",
+    "end": "2025-12-01",
+    "tribalDate": null,
+    "inferred": true,
+    "dateLabel": "NOV 29–DEC 1",
+    "description": "A compressed Thanksgiving schedule leads to Katie’s elimination at final five. The remaining four players are Aly, Navi, Joel, and Steve, but the season is not decided by an alliance agreement.",
+    "outcome": "Katie",
+    "story": [
+      {
+        "heading": "A different kind of football week",
+        "body": "Thursday–Friday games and Sunday–Monday games count as separate scoring windows, requiring quick roster decisions and leaving little time between competitive results and Tribal planning."
+      },
+      {
+        "heading": "Katie looks for an opening",
+        "body": "As the only player outside the four-person JANS agreement at final five, Katie is seeking a route through a difficult vote. Relationships built earlier in the season still matter, and the remaining group must decide whether to hold the agreement or change course for the final stage."
+      },
+      {
+        "heading": "The final four is set",
+        "body": "Katie is voted out. Aly, Navi, Joel, and Steve reach final four, fulfilling a common objective, but only three can advance. From this point each person has to consider the endgame on individual terms."
+      }
+    ]
+  },
+  {
+    "id": "week-13b",
+    "number": 14,
+    "kicker": "WEEK 13B · THE FINAL FOUR",
+    "title": "One last elimination",
+    "short": "WEEK 13B",
+    "start": "2025-12-02",
+    "end": "2025-12-02",
+    "tribalDate": "2025-12-02",
+    "inferred": true,
+    "dateLabel": "DEC 2 · TUESDAY",
+    "description": "Aly wins final immunity, and Joel becomes the final eliminated player. Aly, Navi, and Steve advance to a jury decision that will determine their championship roster additions.",
+    "outcome": "Joel",
+    "story": [
+      {
+        "heading": "Immunity changes the final decision",
+        "body": "Aly wins the last immunity competition. The final-four vote therefore falls on the remaining options, and the alliance that survived the late game cannot stay intact."
+      },
+      {
+        "heading": "Joel goes to the jury",
+        "body": "Joel is eliminated at the final-four Tribal. Each finalist now arrives with a different route through the tribes, merge, and endgame. The question shifts from who is safe to how the jury will evaluate those paths."
+      },
+      {
+        "heading": "The last events before the final",
+        "body": "Fallen Comrades and the final Ponderosa recording accompany this phase. The archive indexes the final-four Tribal and related footage, but the separate final-three Tribal recording is not among the supplied assets."
+      }
+    ]
+  },
+  {
+    "id": "jury",
+    "number": 15,
+    "kicker": "FINAL TRIBAL · THE JURY",
+    "title": "The jury builds the rosters",
+    "short": "FINAL TRIBAL",
+    "start": "2025-12-03",
+    "end": "2025-12-03",
+    "tribalDate": null,
+    "inferred": true,
+    "dateLabel": "DEC 3 · INFERRED",
+    "description": "Aly receives five jury votes, Navi three, and Steve none. The votes distribute additional fantasy players to the finalists, rather than directly declaring the game winner.",
+    "outcome": "Aly 5 · Navi 3 · Steve 0",
+    "story": [
+      {
+        "heading": "Three finalists, different cases",
+        "body": "Aly, Navi, and Steve reach the jury after navigating very different social and competitive situations. Aly receives five votes, Navi three, and Steve none, a meaningful result for the last stage without being the final standings."
+      },
+      {
+        "heading": "How the jury affects the football final",
+        "body": "Each jury vote awards that finalist the voter’s two best fantasy players for an NFL Weeks 14–15 championship. The vote is therefore both a judgment of the Survivor game and an allocation of football resources. A recording of the jury votes is available, although the full final-three Tribal is not included in the supplied footage."
+      }
+    ]
+  },
+  {
+    "id": "final-14",
+    "number": 16,
+    "kicker": "FANTASY FINAL · WEEK 14",
+    "title": "A close first week of the final",
+    "short": "FANTASY FINAL",
+    "start": "2025-12-04",
+    "end": "2025-12-10",
+    "tribalDate": null,
+    "inferred": false,
+    "dateLabel": "DEC 4–10 · NFL WEEK 14",
+    "description": "The fantasy championship opens with a close Week 14 contest between Steve and Aly, while Navi faces a larger deficit. The next NFL slate will decide the season.",
+    "outcome": "Steve 186.6 · Aly 182.74 · Navi 113.06",
+    "story": [
+      {
+        "heading": "The rules return the focus to NFL production",
+        "body": "The jury has built different available rosters for Aly, Navi, and Steve. The championship format now puts their fantasy decisions and actual player performances front and center, with another entire NFL week still to come."
+      },
+      {
+        "heading": "A narrow first-week edge",
+        "body": "Steve records 186.6 in Week 14, Aly 182.74, and Navi 113.06. The difference between the top two is small enough that the outcome remains unsettled heading into the second week. The supplied screenshots show the players and scoring behind these totals."
+      }
+    ]
+  },
+  {
+    "id": "final-15",
+    "number": 17,
+    "kicker": "FANTASY FINAL · WEEK 15",
+    "title": "The two-week title is decided",
+    "short": "FANTASY FINAL",
+    "start": "2025-12-11",
+    "end": "2025-12-15",
+    "tribalDate": null,
+    "inferred": false,
+    "dateLabel": "DEC 11–15",
+    "description": "Two weeks of fantasy scoring determine the final result: Steve finishes first, Aly second, and Navi third. The season ends with both the jury’s choices and the NFL scores part of the outcome.",
+    "outcome": "CHAMPION · STEVE",
+    "story": [
+      {
+        "heading": "A separate contest from the jury vote",
+        "body": "The jury awarded Aly five votes and Navi three, giving them additional football players; Steve received none. Those allocations helped shape the finalists’ teams, but the championship ultimately depended on Week 14 and 15 scoring."
+      },
+      {
+        "heading": "The final standings",
+        "body": "Steve finishes with approximately 369 total points, Aly with 354, and Navi with 302, winning Season 3 on fantasy points. The result closes a season in which all three finalists reached the end through distinct relationships and decisions."
+      }
+    ]
+  },
+  {
+    "id": "aftermath",
+    "number": 18,
+    "kicker": "AFTER THE FINAL WHISTLE",
+    "title": "Looking back at Season 3",
+    "short": "AFTER THE FINAL WHISTLE",
+    "start": "2025-12-16",
+    "end": "2025-12-31",
+    "tribalDate": null,
+    "inferred": false,
+    "dateLabel": "DEC 16–18",
+    "description": "The archive closes with player submissions from after the final football scores, looking back on a season shaped by three tribes, returnees, the merge, and a fantasy-football championship.",
+    "outcome": "Season complete",
+    "story": [
+      {
+        "heading": "Different paths through the same season",
+        "body": "From the early tribal draft to the merge, players competed on several fronts at once: relationships, votes, available advantages, and roster scoring. The final three represent only the last stage of a larger cast’s story."
+      },
+      {
+        "heading": "Revisit the record",
+        "body": "The indexed confessionals continue into December 18. Together with the Tribal recordings, produced episodes, challenges, and Ponderosa footage, they let viewers return to individual players’ perspectives without relying on one private set of conversations as the definitive account."
+      }
+    ]
+  }
+]

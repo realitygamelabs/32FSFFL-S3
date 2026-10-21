@@ -420,98 +420,30 @@
     ]
   },
   {
-    "id": "jury",
+    "id": "finale",
     "number": 15,
-    "kicker": "FINAL TRIBAL · THE JURY",
-    "title": "The jury builds the rosters",
-    "short": "FINAL TRIBAL",
+    "kicker": "THE FINALE",
+    "title": "The jury and the fantasy final",
+    "short": "FINALE",
     "start": "2025-12-03",
-    "end": "2025-12-03",
-    "tribalDate": null,
-    "inferred": true,
-    "dateLabel": "DEC 3 · INFERRED",
-    "description": "Aly receives five jury votes, Navi three, and Steve none. The votes distribute additional fantasy players to the finalists, rather than directly declaring the game winner.",
-    "outcome": "Aly 5 · Navi 3 · Steve 0",
-    "story": [
-      {
-        "heading": "Three finalists, different cases",
-        "body": "Aly, Navi, and Steve reach the jury after navigating very different social and competitive situations. Aly receives five votes, Navi three, and Steve none, a meaningful result for the last stage without being the final standings."
-      },
-      {
-        "heading": "How the jury affects the football final",
-        "body": "Each jury vote awards that finalist the voter’s two best fantasy players for an NFL Weeks 14–15 championship. The vote is therefore both a judgment of the Survivor game and an allocation of football resources. A recording of the jury votes is available, although the full final-three Tribal is not included in the supplied footage."
-      }
-    ]
-  },
-  {
-    "id": "final-14",
-    "number": 16,
-    "kicker": "FANTASY FINAL · WEEK 14",
-    "title": "A close first week of the final",
-    "short": "FANTASY FINAL",
-    "start": "2025-12-04",
-    "end": "2025-12-10",
-    "tribalDate": null,
-    "inferred": false,
-    "dateLabel": "DEC 4–10 · NFL WEEK 14",
-    "description": "The fantasy championship opens with a close Week 14 contest between Steve and Aly, while Navi faces a larger deficit. The next NFL slate will decide the season.",
-    "outcome": "Steve 186.6 · Aly 182.74 · Navi 113.06",
-    "story": [
-      {
-        "heading": "The rules return the focus to NFL production",
-        "body": "The jury has built different available rosters for Aly, Navi, and Steve. The championship format now puts their fantasy decisions and actual player performances front and center, with another entire NFL week still to come."
-      },
-      {
-        "heading": "A narrow first-week edge",
-        "body": "Steve records 186.6 in Week 14, Aly 182.74, and Navi 113.06. The difference between the top two is small enough that the outcome remains unsettled heading into the second week. The supplied screenshots show the players and scoring behind these totals."
-      }
-    ]
-  },
-  {
-    "id": "final-15",
-    "number": 17,
-    "kicker": "FANTASY FINAL · WEEK 15",
-    "title": "The two-week title is decided",
-    "short": "FANTASY FINAL",
-    "start": "2025-12-11",
-    "end": "2025-12-15",
-    "tribalDate": null,
-    "inferred": false,
-    "dateLabel": "DEC 11–15",
-    "description": "Two weeks of fantasy scoring determine the final result: Steve finishes first, Aly second, and Navi third. The season ends with both the jury’s choices and the NFL scores part of the outcome.",
-    "outcome": "CHAMPION · STEVE",
-    "story": [
-      {
-        "heading": "A separate contest from the jury vote",
-        "body": "The jury awarded Aly five votes and Navi three, giving them additional football players; Steve received none. Those allocations helped shape the finalists’ teams, but the championship ultimately depended on Week 14 and 15 scoring."
-      },
-      {
-        "heading": "The final standings",
-        "body": "Steve finishes with approximately 369 total points, Aly with 354, and Navi with 302, winning Season 3 on fantasy points. The result closes a season in which all three finalists reached the end through distinct relationships and decisions."
-      }
-    ]
-  },
-  {
-    "id": "aftermath",
-    "number": 18,
-    "kicker": "AFTER THE FINAL WHISTLE",
-    "title": "Looking back at Season 3",
-    "short": "AFTER THE FINAL WHISTLE",
-    "start": "2025-12-16",
     "end": "2025-12-31",
     "tribalDate": null,
-    "inferred": false,
-    "dateLabel": "DEC 16–18",
-    "description": "The archive closes with player submissions from after the final football scores, looking back on a season shaped by three tribes, returnees, the merge, and a fantasy-football championship.",
-    "outcome": "Season complete",
+    "inferred": true,
+    "dateLabel": "DEC 3–18",
+    "description": "The jury makes its decision, then fantasy football determines the season winner across NFL Weeks 14 and 15.",
+    "outcome": null,
     "story": [
       {
-        "heading": "Different paths through the same season",
-        "body": "From the early tribal draft to the merge, players competed on several fronts at once: relationships, votes, available advantages, and roster scoring. The final three represent only the last stage of a larger cast’s story."
+        "heading": "Final Tribal",
+        "body": "Aly, Navi, and Steve reach the final three by different routes through the game. At the jury vote, Aly receives five votes, Navi three, and Steve none. Rather than crowning a winner directly, each jury vote gives the finalist that juror’s two best fantasy football players to use in a two-week championship."
       },
       {
-        "heading": "Revisit the record",
-        "body": "The indexed confessionals continue into December 18. Together with the Tribal recordings, produced episodes, challenges, and Ponderosa footage, they let viewers return to individual players’ perspectives without relying on one private set of conversations as the definitive account."
+        "heading": "The final two football weeks",
+        "body": "The first week is close at the top: Steve scores 186.6, Aly 182.74, and Navi 113.06. With another slate of NFL games ahead, the outcome remains open. By the end of Week 15, Steve has the highest combined score and wins the season, with Aly second and Navi third. The screenshots below preserve the actual fantasy results."
+      },
+      {
+        "heading": "The end of the season",
+        "body": "The final three were shaped by different social relationships, immunity outcomes, and fantasy rosters. The jury mattered because it changed which players were available for the football final; the fantasy results decided the championship. The remaining confessionals offer a final look back at the season."
       }
     ]
   }
